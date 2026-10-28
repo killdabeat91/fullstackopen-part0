@@ -12,3 +12,5 @@ Solutions to exercises from the Full Stack Open course by the University of Hels
   - [courseinfo](./part1/courseinfo) (Exercises 1.1 - 1.5)
   - [unicafe](./part1/unicafe) (Exercises 1.6 - 1.11)
   - [anecdotes](./part1/anecdotes) (Exercises 1.12 - 1.14)
+- **part2**
+  - [courseinfo](./part2/courseinfo) (Exercises 2.1 - 2.5)
