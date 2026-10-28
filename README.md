@@ -9,4 +9,4 @@ Solutions to exercises from the Full Stack Open course by the University of Hels
   - [0.5: Single page app diagram](./part0/0.5_single_page_app_diagram.md)
   - [0.6: New note in Single page app diagram](./part0/0.6_new_note_in_spa_diagram.md)
 - **part1**
-  - [courseinfo](./part1/courseinfo) (Exercises 1.1 - 1.2)
+  - [courseinfo](./part1/courseinfo) (Exercises 1.1 - 1.5)
