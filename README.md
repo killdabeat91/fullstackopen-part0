@@ -10,3 +10,5 @@ Solutions to exercises from the Full Stack Open course by the University of Hels
   - [0.6: New note in Single page app diagram](./part0/0.6_new_note_in_spa_diagram.md)
 - **part1**
   - [courseinfo](./part1/courseinfo) (Exercises 1.1 - 1.5)
+  - [unicafe](./part1/unicafe) (Exercises 1.6 - 1.11)
+  - [anecdotes](./part1/anecdotes) (Exercises 1.12 - 1.14)
