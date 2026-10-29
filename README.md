@@ -14,4 +14,4 @@ Solutions to exercises from the Full Stack Open course by the University of Hels
   - [anecdotes](./part1/anecdotes) (Exercises 1.12 - 1.14)
 - **part2**
   - [courseinfo](./part2/courseinfo) (Exercises 2.1 - 2.5)
-  - [phonebook](./part2/phonebook) (Exercises 2.6 - 2.11)
+  - [phonebook](./part2/phonebook) (Exercises 2.6 - 2.15)
